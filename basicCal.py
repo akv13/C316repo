@@ -19,3 +19,8 @@ def sub(a,b):
 
 sub(a,b)
 
+def div(a,b):
+    print(" div is:", (a/b))
+
+div(a,b)
+
