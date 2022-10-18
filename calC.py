@@ -13,3 +13,4 @@ sub(1,2)
 
 
 def mul(a,b):
+    print("Multiplication is:" mul(a*b))
