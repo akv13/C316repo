@@ -44,7 +44,7 @@ def resource_check():
         else:
             var = 1
         return var
-
+#sjdfjhsd
 
 def coin_check(quarter, dimes, nickles, pennies, order):
     global MENU
