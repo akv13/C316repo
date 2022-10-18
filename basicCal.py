@@ -1,18 +1,21 @@
 #calC
 # 4 functions for basic mathematics calculation
 
+a = int(input("Enter your first number "))
+b = int(input("Enter your second number "))
+
 def add(a,b):
     print(a+b)
 
-add(3,4)
+print("Sum of the numbers are ",  add(a,b))
 
 def mul(a,b):
     print(a*b)
 
-mul(2,3)
+mul(a,b)
 
 def sub(a,b):
     print(a-b)
 
-sub(1,2)
+sub(a,b)
 
