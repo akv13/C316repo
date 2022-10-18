@@ -5,3 +5,6 @@ def add(a,b):
     print(a+b)
 
 add(3,4)
+
+a = int(input("Enter first number"))
+b = int(input("Enter second number"))
