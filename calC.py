@@ -5,3 +5,8 @@ def add(a,b):
     print(a+b)
 
 add(3,4)
+
+def mul(a,b):
+    print(a*b)
+
+mul(2,3)
