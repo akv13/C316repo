@@ -6,5 +6,7 @@ def add(a,b):
 
 add(3,4)
 
-a = int(input("Enter first number"))
-b = int(input("Enter second number"))
+def sub(a,b):
+    print(a-b)
+
+sub(1,2)
